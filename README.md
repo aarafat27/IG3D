@@ -2,6 +2,7 @@
 <img width="1920" height="1080" alt="low_poly_helicopter" src="https://github.com/user-attachments/assets/48e57243-0f5e-4857-beee-5dc02833468b" />
 
 
+
 This repository contains my laboratory work for the **IG3D course** at **Sorbonne University**. These labs cover different topics in computer graphics and interactive 3D, including ray tracing, materials and shading, low-poly modeling, scene creation, medical 3D reconstruction, rigid body simulation, and fluid simulation.
 
 The goal of this work was to understand both the visual and technical side of 3D graphics. Across the labs, I worked on rendering, object creation, scene design, simulation, and image generation. The projects combine modeling, lighting, shading, geometry processing, and physically based simulation.
@@ -46,7 +47,7 @@ This part helped me understand how shading and materials make a simple object lo
 
 ### 3. Low Poly Girl
 This lab is based on building and rendering a **low poly character model**. The focus is on simple geometry, clean stylized design, and visual presentation.
-
+<img width="1920" height="1080" alt="low_poly_smooth" src="https://github.com/user-attachments/assets/86ed2fd2-a17b-431c-bba8-9f7a74ff32d7" />
 Main ideas covered in this lab:
 - low poly modeling
 - character proportions
@@ -73,7 +74,8 @@ This lab helped me practice how to combine multiple simple objects into one cohe
 ---
 
 ### 5. MRI 3D Reconstruction
-This lab explores **medical 3D visualization** using MRI data in Blender. The objective is to reconstruct a 3D model from volumetric head scan data and generate rendered views. The provided pseudocode template shows a workflow based on TIFF volume import, normalization, marching cubes, smoothing, material creation, lighting, and camera setup. fileciteturn0file0
+This lab explores **medical 3D visualization** using MRI data in Blender. The objective is to reconstruct a 3D model from volumetric head scan data and generate rendered views. The provided pseudocode template shows a workflow based on TIFF volume import, normalization, marching cubes, smoothing, material creation, lighting and camera setup.
+<img width="1280" height="960" alt="t1_head_Cam_Sagittal" src="https://github.com/user-attachments/assets/86a3636d-60d7-4734-895b-9881f4cb9a00" />
 
 Main ideas covered in this lab:
 - volumetric data loading
@@ -89,6 +91,7 @@ This lab connects computer graphics with medical imaging and shows how 3D recons
 
 ### 6. Rigid Body Simulation
 This lab focuses on **rigid body dynamics**. I implemented the main components of a rigid body solver, including mass, inertia tensor, force, torque, momentum update, position update, and rotation update. I also extended the lab by adding floor collision, bouncing, damping, and a resting state for the cube. fileciteturn0file1
+<img width="679" height="541" alt="Screenshot 2026-04-02 200309" src="https://github.com/user-attachments/assets/68d369d4-554b-4645-af74-fb1f5e2ae509" />
 
 Main ideas covered in this lab:
 - rigid body motion
@@ -104,7 +107,7 @@ This lab helped me understand the physics side of animation and how motion can b
 ---
 
 ### 7. SPH Fluid Simulation
-This lab focuses on **Smoothed Particle Hydrodynamics (SPH)** for fluid simulation. I implemented the important solver parts such as neighbor search, density computation, pressure, body force, viscosity, and particle update. The final simulation shows fluid falling, deforming, spreading, and creating a splash near the boundary. fileciteturn0file2
+This lab focuses on **Smoothed Particle Hydrodynamics (SPH)** for fluid simulation. I implemented the important solver parts such as neighbor search, density computation, pressure, body force, viscosity, and particle update. The final simulation shows fluid falling, deforming, spreading, and creating a splash near the boundary.
 <img width="874" height="342" alt="Screenshot 2026-04-16 224953" src="https://github.com/user-attachments/assets/092d0cdb-e166-44de-8b0d-b924c4ec5670" />
 
 Main ideas covered in this lab:
@@ -137,10 +140,8 @@ Overall, the course helped me connect **visual creation** and **technical comput
 
 ## Conclusion
 
-These IG3D labs show a broad view of computer graphics, from static rendering to dynamic simulation. Each lab focuses on a different aspect of 3D work, and together they form a portfolio of modeling, rendering, reconstruction, and simulation tasks.
+These IG3D labs show a broad view of computer graphics, from static rendering to dynamic simulation. Each lab focuses on a different aspect of 3D work and together they form a portfolio of modeling, rendering, reconstruction and simulation tasks. This collection reflects both creative and technical progress during the course. It includes image synthesis, object design, environment creation, medical visualization, rigid motion and fluid behavior, which together represent the main practical themes of IG3D.
 
-This collection reflects both creative and technical progress during the course. It includes image synthesis, object design, environment creation, medical visualization, rigid motion, and fluid behavior, which together represent the main practical themes of IG3D.
-g IG3D_README.md…]()
 
 
 
