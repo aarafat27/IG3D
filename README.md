@@ -27,6 +27,10 @@ This lab gave me a strong introduction to image synthesis and how realistic rend
 
 ### 2. Objects, Materials, Shading and Colours
 This lab focuses on creating 3D objects and improving their appearance using **materials, shading, and colours**. The work explores how the same object can look different depending on the surface properties and rendering settings.
+<img width="1127" height="788" alt="Screenshot 2026-02-26 192446" src="https://github.com/user-attachments/assets/d697729e-a587-42d0-a1ab-033f0ce39ef8" />
+<img width="963" height="656" alt="Screenshot 2026-02-26 194231" src="https://github.com/user-attachments/assets/a522a154-9f4c-461a-adc9-ab6c932394de" />
+<img width="1192" height="786" alt="Screenshot 2026-02-26 192317" src="https://github.com/user-attachments/assets/92d19a4f-9d90-4282-9e18-6985815dff41" />
+
 
 Main ideas covered in this lab:
 - object creation and placement
