@@ -7,8 +7,6 @@ This repository contains my laboratory work for the **IG3D course** at **Sorbonn
 
 The goal of this work was to understand both the visual and technical side of 3D graphics. Across the labs, I worked on rendering, object creation, scene design, simulation, and image generation. The projects combine modeling, lighting, shading, geometry processing, and physically based simulation.
 
-<img width="1280" height="900" alt="tp_4" src="https://github.com/user-attachments/assets/53e2d410-d0e6-4044-b238-b165826fd770" />
-
 ## Lab Contents
 
 ### 1. Ray Tracing
@@ -63,7 +61,7 @@ The low poly girl model shows how a small number of polygons can still produce a
 
 ### 4. Island Scene
 This lab focuses on creating a small **stylized island environment**. The scene includes natural elements and uses simple geometric forms to build a complete composition.
-
+<img width="1280" height="900" alt="tp_4" src="https://github.com/user-attachments/assets/53e2d410-d0e6-4044-b238-b165826fd770" />
 Main ideas covered in this lab:
 - scene composition
 - terrain and environment modeling
