@@ -13,6 +13,8 @@ The goal of this work was to understand both the visual and technical side of 3D
 
 ### 1. Ray Tracing
 This lab focuses on the basics of **ray tracing**. The main objective was to generate rendered images by tracing rays through a scene and computing intersections with objects.
+<img width="485" height="389" alt="image" src="https://github.com/user-attachments/assets/611877d0-876d-49a0-9897-58f2f2f95be8" />
+
 
 Main ideas covered in this lab:
 - ray generation from the camera
