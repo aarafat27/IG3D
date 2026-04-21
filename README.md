@@ -90,7 +90,7 @@ This lab connects computer graphics with medical imaging and shows how 3D recons
 ---
 
 ### 6. Rigid Body Simulation
-This lab focuses on **rigid body dynamics**. I implemented the main components of a rigid body solver, including mass, inertia tensor, force, torque, momentum update, position update, and rotation update. I also extended the lab by adding floor collision, bouncing, damping, and a resting state for the cube. fileciteturn0file1
+This lab focuses on **rigid body dynamics**. I implemented the main components of a rigid body solver, including mass, inertia tensor, force, torque, momentum update, position update, and rotation update. I also extended the lab by adding floor collision, bouncing, damping, and a resting state for the cube.
 <img width="679" height="541" alt="Screenshot 2026-04-02 200309" src="https://github.com/user-attachments/assets/68d369d4-554b-4645-af74-fb1f5e2ae509" />
 
 Main ideas covered in this lab:
